@@ -1,0 +1,30 @@
+[
+  {
+    "Amount": 20,
+    "Category": "HealthCare",
+    "Date": "2024-06-04T09:20:46.475Z",
+    "Description": "cabage",
+    "Id": 3
+  },
+  {
+    "Id": 4,
+    "Description": "Apple",
+    "Amount": 100,
+    "Category": "Entertainment",
+    "Date": "2024-06-04T09:41:23.141Z"
+  },
+  {
+    "Id": 6,
+    "Description": "Shoe",
+    "Amount": 2400,
+    "Category": "Housing",
+    "Date": "2024-06-04T19:45:26.381Z"
+  },
+  {
+    "Id": 7,
+    "Description": "Apple",
+    "Amount": 100,
+    "Category": "Entertainment",
+    "Date": "2024-06-04T19:45:34.688Z"
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Renter\\Desktop\\WebAPI\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{861FBD3F-9D5B-4C10-8F5B-2158DA1B5957}|ExpenseProgram.csproj|c:\\users\\renter\\desktop\\webapi\\expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861FBD3F-9D5B-4C10-8F5B-2158DA1B5957}|ExpenseProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861FBD3F-9D5B-4C10-8F5B-2158DA1B5957}|ExpenseProgram.csproj|c:\\users\\renter\\desktop\\webapi\\expensetracker\\models\\transactionrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861FBD3F-9D5B-4C10-8F5B-2158DA1B5957}|ExpenseProgram.csproj|solutionrelative:models\\transactionrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861FBD3F-9D5B-4C10-8F5B-2158DA1B5957}|ExpenseProgram.csproj|c:\\users\\renter\\desktop\\webapi\\expensetracker\\transactions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{861FBD3F-9D5B-4C10-8F5B-2158DA1B5957}|ExpenseProgram.csproj|solutionrelative:transactions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861FBD3F-9D5B-4C10-8F5B-2158DA1B5957}|ExpenseProgram.csproj|c:\\users\\renter\\desktop\\webapi\\expensetracker\\domain\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861FBD3F-9D5B-4C10-8F5B-2158DA1B5957}|ExpenseProgram.csproj|solutionrelative:domain\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861FBD3F-9D5B-4C10-8F5B-2158DA1B5957}|ExpenseProgram.csproj|c:\\users\\renter\\desktop\\webapi\\expensetracker\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861FBD3F-9D5B-4C10-8F5B-2158DA1B5957}|ExpenseProgram.csproj|solutionrelative:domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "transactions.json",
+              "DocumentMoniker": "C:\\Users\\Renter\\Desktop\\WebAPI\\ExpenseTracker\\transactions.json",
+              "RelativeDocumentMoniker": "transactions.json",
+              "ToolTip": "C:\\Users\\Renter\\Desktop\\WebAPI\\ExpenseTracker\\transactions.json",
+              "RelativeToolTip": "transactions.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T07:34:59.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Renter\\Desktop\\WebAPI\\ExpenseTracker\\Domain\\Transaction.cs",
+              "RelativeDocumentMoniker": "Domain\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Renter\\Desktop\\WebAPI\\ExpenseTracker\\Domain\\Transaction.cs",
+              "RelativeToolTip": "Domain\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:52:57.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Renter\\Desktop\\WebAPI\\ExpenseTracker\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Category.cs",
+              "ToolTip": "C:\\Users\\Renter\\Desktop\\WebAPI\\ExpenseTracker\\Domain\\Category.cs",
+              "RelativeToolTip": "Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:32:44.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\Renter\\Desktop\\WebAPI\\ExpenseTracker\\Models\\TransactionRepositories.cs",
+              "RelativeDocumentMoniker": "Models\\TransactionRepositories.cs",
+              "ToolTip": "C:\\Users\\Renter\\Desktop\\WebAPI\\ExpenseTracker\\Models\\TransactionRepositories.cs",
+              "RelativeToolTip": "Models\\TransactionRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:28:16.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Renter\\Desktop\\WebAPI\\ExpenseTracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Renter\\Desktop\\WebAPI\\ExpenseTracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAUwEYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:23:41.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
